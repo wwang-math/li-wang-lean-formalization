@@ -10,5 +10,5 @@ package «LiWangLeanFormalization» where
 require "leanprover-community" / "mathlib" @ git "8d6f23e07b24c7dda53bb66ba1acaf7b99c9adf6"
 
 @[default_target]
-lean_lib «LiWangWiener» where
-  globs := #[.andSubmodules `LiWangWiener]
+lean_lib «LiWangFormalization» where
+  globs := #[.andSubmodules `LiWangFormalization]

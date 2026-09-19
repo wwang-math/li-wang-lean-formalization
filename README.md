@@ -6,5 +6,5 @@ Lean 4 source files associated with the Li-Wang paper.
 
 ```bash
 lake build
-lake env lean LiWangWienerTest.lean
+lake env lean LiWangFormalizationTest.lean
 ```
