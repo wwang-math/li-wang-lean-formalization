@@ -1,6 +1,6 @@
 # Lean formalization for Li-Wang paper
 
-Lean 4 source files associated with the Li-Wang paper.
+Lean 4 formalization source files for the Li-Wang paper.
 
 ## Build
 
